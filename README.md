@@ -8,6 +8,8 @@ Screenshots of the app:
 
 ![app screenshot](https://github.com/Sahith02/automated-attendance-manager-react-native/blob/master/screenshots/app-ss.png)
 
+
+
 Functionality of the app:
 * full functioning login screen with keyboardAvoidingView and SafeView
 * home screen with sticky carousel items
