@@ -10,7 +10,8 @@ This is the mobile app part of the full automated attendance manager application
 
 
 
-Functionality of the app:
+### Functionality of the app:
+
 * full functioning login screen with keyboardAvoidingView and SafeView
 * home screen with sticky carousel items
 * attendance list screen with styled FlatList component
