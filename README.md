@@ -20,5 +20,5 @@ This is the mobile app part of the full automated attendance manager application
 * uses async-storage-react-native for local storage of username
 * has pull-to-refresh functionality
 * calculates the number of classes required to make up for a threshold percentage
-* opens modal from bottom with smooth 60fps animation for in-depth attendance details
+* opens modal from bottom with smooth 60fps animation for in-depth attendance details (details coming soon)
 * in-app password change feature
