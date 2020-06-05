@@ -6,7 +6,7 @@ This is the mobile app part of the full automated attendance manager application
 ### Screenshots of the app:
 
 
-![app screenshot](https://github.com/Sahith02/automated-attendance-manager-react-native/blob/master/screenshots/app-ss.png)
+![app screenshot](https://github.com/Sahith02/automated-attendance-manager-react-native/blob/master/screenshots/Collage.png)
 
 
 
