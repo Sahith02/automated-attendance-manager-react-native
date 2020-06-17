@@ -1,5 +1,6 @@
 # automated-attendance-manager-react-native
 
+### Introduction
 This is the mobile app part of the full automated attendance manager application made with react native.
 
 
