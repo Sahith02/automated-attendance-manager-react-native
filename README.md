@@ -23,3 +23,6 @@ This is the mobile app part of the full automated attendance manager application
 * calculates the number of classes required to make up for a threshold percentage
 * opens modal from bottom with smooth 60fps animation for in-depth attendance details (details coming soon)
 * in-app password change feature
+
+### Other part of the project:
+The other part of the project (web app and face recognition) can be found [here](https://github.com/Sahith02/automated-attendance-manager-web-app)
